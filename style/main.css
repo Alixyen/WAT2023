@@ -127,3 +127,16 @@ MEDIA QUERIES
         display: none;
     }
 }
+
+body {
+
+    font-family: verdana, helvetica, arial, sans-serif;
+
+    font-size: 1em;
+}
+#product-form-container {
+    border: solid;
+    background-color: blue;
+
+}
+
