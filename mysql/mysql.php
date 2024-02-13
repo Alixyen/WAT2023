@@ -36,7 +36,7 @@
 
         <label for="Age">Age: </label>
 
-        <input type="text" name="Age"/><br/>
+        <input type="text" name="Age" id="Age"/><br/>
 
         <input type="submit">
     </fieldset>

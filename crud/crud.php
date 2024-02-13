@@ -1,4 +1,5 @@
 <?php
+include 'connection.php';
 ?>
 
 <link rel="stylesheet" href="../style/main.css">
@@ -6,7 +7,7 @@
 <div class="product-form-container">
     <h2>Manage Products</h2>
 
-        <form method="POST" action="../insertRecord.php">
+        <form method="POST" action="insertProduct.php">
 
                 <p>Enter New Product Details</p>
 

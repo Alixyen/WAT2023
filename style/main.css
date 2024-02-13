@@ -134,9 +134,10 @@ body {
 
     font-size: 1em;
 }
-#product-form-container {
+.product-form-container {
     border: solid;
-    background-color: blue;
+    width: 50%;
+    padding: 10px;
 
 }
 
