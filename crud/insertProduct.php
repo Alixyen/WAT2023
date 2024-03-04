@@ -1,21 +1,22 @@
 <?php
+include 'connection.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $productName = isset($_POST['ProductName']) ? htmlspecialchars($_POST['ProductName']) : '';
-    $productPrice = isset($_POST['ProductPrice']) ? htmlspecialchars($_POST['ProductPrice']) : '';
-    $productImageName = isset($_POST['ProductImageName']) ? htmlspecialchars($_POST['ProductImageName']) : '';
+    $productName = isset($_POST['pName']) ? htmlspecialchars($_POST['pName']) : '';
+    $productPrice = isset($_POST['pPrice']) ? htmlspecialchars($_POST['pPrice']) : '';
+    $productImageName = isset($_POST['Filename']) ? htmlspecialchars($_POST['Filename']) : '';
 
-    // Insert data into a hypothetical 'users' table
-    $query = "INSERT INTO products (ProductName, ProductPrice, ProductImageName) VALUES ('$productName', '$productPrice', '$productImageName')";
+    //
+    $stmt = mysqli_prepare($connection, "INSERT INTO products (ProductName, ProductPrice, ProductImageName) VALUES (?, ?, ?)");
+    mysqli_stmt_bind_param($stmt, "sds", $productName, $productPrice, $productImageName);;
 
-    if (mysqli_query($conn, $query)) {
-        echo "Data inserted successfully!";
+    if (mysqli_stmt_execute($stmt)) {
+        echo "Records inserted";
     } else {
-        echo "Error: " . mysqli_error($conn);
+        echo "Error: " . mysqli_error($connection);
     }
-
     // Close the connection
-    echo $query;
-    mysqli_close($conn);
+    mysqli_stmt_close($stmt);
+    mysqli_close($connection);
 }
 

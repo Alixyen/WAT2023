@@ -15,13 +15,13 @@ include 'connection.php';
 
                 <input type="text" name="pName" id="pName"/><br>
 
-                <label for="price">Price: </label><br>
+                <label for="pPrice">Price: </label><br>
 
-                <input type="text" name="price" id="price"><br>
+                <input type="text" name="pPrice" id="pPrice"><br>
 
-                <label for="filename">Image Filename: </label> <br>
+                <label for="Filename">Image Filename: </label> <br>
 
-                <input type="text" name="filename" id="filename"/><br>
+                <input type="text" name="Filename" id="Filename"/><br>
 
                 <input type="submit" value="Submit" name="loginSubmit"/>
 
