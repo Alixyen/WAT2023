@@ -144,25 +144,6 @@ body {
     }
         /* CSS worksheet style sheet below */
 
-    .parent-container {
-        display: flex; /* Use Flexbox */
-        justify-content: space-between; /* Adjusts the spacing between children */
-        align-items: center; /* Aligns items vertically */
-    }
-    .middle-box {
-        background-color: grey; /* Different color for visual distinction */
-        flex-grow: 2; /* Allows the middle box to grow twice as much as the other boxes */
-    }
-    .end-boxes {
-        height: 100px; /* Or another appropriate height */
-        background-color: lightgrey; /* Visual aid */
-        flex-grow: 1; /* Allows boxes to grow and fill the container */
-        margin: 0 10px; /* Adds space between the boxes */
-    }
-
-    .container {
-        display: flex;
-    }
     .box {
         flex: 1;
         width: 200px;
@@ -175,13 +156,23 @@ body {
 }
 /* CSS WORKSHEET STYLES BELOW THIS LINE */
 
-
-
-
-
-
-
-
-
+.parent-container {
+    display: flex; /* Use Flexbox */
+    justify-content: space-between; /* Adjusts the spacing between children */
+    align-items: center; /* Aligns items vertically */
+}
+.middle-box {
+    height: 100px;
+    background-color: lightgrey; /* Different color for visual distinction */
+    flex-grow: 2; /* Allows the middle box to grow twice as much as the other boxes */
+    border: 5px solid green;
+}
+.end-box {
+    height: 100px; /* Or another appropriate height */
+    background-color: lightgrey; /* Visual aid */
+    flex-grow: 1; /* Allows boxes to grow and fill the container */
+    margin: 0 10px; /* Adds space between the boxes */
+    border: 5px solid green;
+}
 
 /* CSS WORKSHEET STYLES BELOW THIS LINE */

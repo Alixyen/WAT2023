@@ -57,9 +57,8 @@
 
         <h2 id="Layout">Layout</h2>
 
-        <div class ="parent-container"
-        <div class="container">
-            <div class="box">
+        <div class="parent-container">
+            <div class="end-box">
                 <p>These words are in column 1</p>
             </div>
             <div class="middle-box">
