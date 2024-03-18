@@ -139,5 +139,49 @@ body {
     width: 50%;
     padding: 10px;
 
-}
+    .container {
+        display: flex;
+    }
+        /* CSS worksheet style sheet below */
 
+    .parent-container {
+        display: flex; /* Use Flexbox */
+        justify-content: space-between; /* Adjusts the spacing between children */
+        align-items: center; /* Aligns items vertically */
+    }
+    .middle-box {
+        background-color: grey; /* Different color for visual distinction */
+        flex-grow: 2; /* Allows the middle box to grow twice as much as the other boxes */
+    }
+    .end-boxes {
+        height: 100px; /* Or another appropriate height */
+        background-color: lightgrey; /* Visual aid */
+        flex-grow: 1; /* Allows boxes to grow and fill the container */
+        margin: 0 10px; /* Adds space between the boxes */
+    }
+
+    .container {
+        display: flex;
+    }
+    .box {
+        flex: 1;
+        width: 200px;
+        height: 50px;
+        background-color: #f0f0f0; /* Grey background color */
+        border: 2px solid #888; /* Grey border */
+        margin-right: 20px; /* Margin between boxes */
+        padding: 10px; /* Padding inside boxes */
+    }
+}
+/* CSS WORKSHEET STYLES BELOW THIS LINE */
+
+
+
+
+
+
+
+
+
+
+/* CSS WORKSHEET STYLES BELOW THIS LINE */

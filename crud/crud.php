@@ -29,3 +29,7 @@ include 'connection.php';
 
         </form>
 </div>
+
+<?php
+include "displayProducts.php";
+
