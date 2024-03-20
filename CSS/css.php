@@ -12,12 +12,12 @@
 
         <h1 id="main-heading" class="highlight">Funadamentals of CSS</h1>
             <h2 id="cascading">Cascading</h2>
-            <p> Stlye can added as an inline elment using the style attribute on tags as is the case for this paragraph. Here font-weight has been given a weight of 800. </p>
+            <p> Stlye can BE added as an inline elment using the style attribute on tags as is the case for this paragraph. Here font-weight has been given a weight of 800. </p>
 
             <p style="font-family: Arial, sans-serif; color: green;">The inline style takes precendent over all other style
                 declartions. Next in order of precedent is the embedded style.
                 This section of a page. This pre tag is styled with embedded style.
-                An extra large green font.</p>
+                An extra large green font. hello</p>
 
             <p> Ideally style is held seperate to structure in a style sheet Other than the 2 examples above all style on this page is in a seperate style sheet. Including the change of base font to Arial. </p>
 

@@ -1,6 +1,6 @@
 <?php
 
-include 'connection.php';
+include '../databaseConnection.php';
 
 if (isset($_POST['productID'], $_POST['pName'], $_POST['pPrice'], $_POST['Filename'])) {
     $productID = $_POST['productID'];

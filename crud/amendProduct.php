@@ -1,5 +1,5 @@
 <?php
-include 'connection.php';
+include '../databaseConnection.php';
 
 // Assuming you're passing the product's ID as a query parameter
 if (isset($_GET['id'])) {

@@ -1,7 +1,7 @@
 <?php
 ?>
 
-<form method="POST" action="../insertRecord.php">
+<form method="POST" action="insertRecord.php">
 
     <fieldset>
 

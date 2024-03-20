@@ -9,7 +9,7 @@ error_reporting(E_ALL);
 
     <h2>Login Form using GET</h2>
 
-    <form method="POST" action="../insertRecord.php">
+    <form method="POST" action="../mysql/insertRecord.php">
 
         <fieldset>
 

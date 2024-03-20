@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57bdc0de-5109-4d44-8f0b-f8ada2796157" name="Changes" comment="completed first html task for first workbook">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WAT2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/css.php" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/css.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/basics.php" beforeDir="false" afterPath="$PROJECT_DIR$/basics/basics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/amendProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/amendProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/deleteProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/deleteProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/displayProducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/displayProducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/insertProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/insertProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/updateProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/crud/updateProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/forms.php" beforeDir="false" afterPath="$PROJECT_DIR$/forms/forms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/fundamentals.php" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/fundamentals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertRecord.php" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/insertRecord.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/message.php" beforeDir="false" afterPath="$PROJECT_DIR$/intro/message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/intro/test.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/databaseConnection.php" beforeDir="false" afterPath="$PROJECT_DIR$/databaseConnection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/mysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second.html" beforeDir="false" afterPath="$PROJECT_DIR$/second.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sessions/sessions.php" beforeDir="false" afterPath="$PROJECT_DIR$/sessions/sessions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortSearch/sortSearch.php" beforeDir="false" afterPath="$PROJECT_DIR$/sortSearch/sortSearch.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/watIndex.html" beforeDir="false" afterPath="$PROJECT_DIR$/watIndex.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2YrIayGV4azpkAZDtAGJaeFMVTy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Notification.DisplayName-DoNotAsk-PHP-CGI Server": "PHP-CGI server",
+    "Notification.DoNotAsk-PHP-CGI Server": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Applications/XAMPP/xamppfiles/htdocs/WAT2023",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysql" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="connection.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/mysql/connection.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57bdc0de-5109-4d44-8f0b-f8ada2796157" name="Changes" comment="" />
+      <created>1701277338877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701277338877</updated>
+      <workItem from="1701277339910" duration="3291000" />
+      <workItem from="1701641435511" duration="598000" />
+      <workItem from="1702406549613" duration="21000" />
+      <workItem from="1702407656243" duration="23000" />
+      <workItem from="1702407689064" duration="22000" />
+      <workItem from="1702407721531" duration="367000" />
+      <workItem from="1702408249000" duration="904000" />
+      <workItem from="1702409669983" duration="7291000" />
+      <workItem from="1702434278636" duration="10042000" />
+      <workItem from="1703693339390" duration="54829000" />
+      <workItem from="1710789861105" duration="184000" />
+      <workItem from="1710790125898" duration="3849000" />
+      <workItem from="1710962168574" duration="951000" />
+      <workItem from="1710963357326" duration="457000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed first html task for first workbook">
+      <option name="closed" value="true" />
+      <created>1702416202003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702416202003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed first html task for first workbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed first html task for first workbook" />
+  </component>
+</project>

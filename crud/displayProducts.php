@@ -11,11 +11,11 @@
     </tr>
 
     <?php
-    include "connection.php"; // Make connection to database
+    include "../databaseConnection.php"; // Make connection to database
 
     // Create a query to select all records from products table
     $sql = "SELECT * FROM products";
-    $result = mysqli_query($connection, $sql); // Run query and store the result in $result
+    $result = mysqli_query($conn, $sql); // Run query and store the result in $result
 
     // Check if there are any results
     if (mysqli_num_rows($result) > 0) {
@@ -35,5 +35,5 @@
     echo "</table>";
 
     // Close connection
-    mysqli_close($connection);
+    mysqli_close($conn);
     ?>

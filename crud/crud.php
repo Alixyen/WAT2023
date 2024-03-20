@@ -1,5 +1,5 @@
 <?php
-include 'connection.php';
+include '../databaseConnection.php';
 ?>
 
 <link rel="stylesheet" href="../style/main.css">
